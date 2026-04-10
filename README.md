@@ -1,4 +1,4 @@
-Simple-Minesweeper-JavaFX
+# Simple-Minesweeper-JavaFX
 
 - Rencana awal
 Untuk project ini saya akan membuat game minesweeper sederhana dengan menggunakan bahasa pemrograman Java dan menggunakan javafx untuk GUInya. Minesweeper adalah game yang permainannya terdiri dari beberapa kotak-kotak yang tertutup. Dibalik beberapa kotak-kotak tersebut terdapat beberapa ranjau. Tujuan dari gamenya adalah untuk membuka semua kotak yang tidak memiliki ranjau. Pada kotak kosong yang telah kita buka akan terdapat petunjuk berupa angka yang menggambarkan jumlah ranjau yang disentuh oleh kotak tersebut baik secara vertikal, horizontal, maupun diagonal.
